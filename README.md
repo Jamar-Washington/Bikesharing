@@ -41,3 +41,5 @@ From the images above that dealt with gender, males were a major consumer of bik
 The other images show that bike services are good for short trips and could be successful with workers as the usage matches with typical opening and closing hours of work. This also helps us determine that it is best to work on the maintenance and charging overnight.
 
 The few vizualizations that would help with seeing the best methods of the bike sharing service would be age demographics to see if college students and recent graduates are the majority subscribers and starting/ending locations compared to population density to see if the service only works in urban settings or could be feasible in suburban settings as well.
+
+The visualization for the Tableau can be found here [NYC Bike Story](https://public.tableau.com/app/profile/jamar.washington/viz/IntrotoTableau_16685276215450/NYCBikeStory)

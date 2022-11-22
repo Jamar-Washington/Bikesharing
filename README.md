@@ -1,4 +1,4 @@
-# 
+# Bikesharing
 
 ## Overview of the analysis
 In this project, we look at the New York City Citi Bike data to see if it is possible to make a bike sharing program is a successful business proposal. An analysis is done on the data to figure out the best parts of the New York City bike sharing to figure out how to implement it to other cities and make it successful.
